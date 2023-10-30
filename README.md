@@ -8,9 +8,9 @@
 
 ![Home](https://github.com/dekuzx/GitBashCmd-IT/assets/111773957/7640a7b5-bf3d-44ca-924c-4027bff9d457)
 
-## Available Commands
+## Comandi disponibilit
 
-In the project directory, you can run:
+In questo programma puoi usare questi comandi. 
 
 ### `pwd" : "mostra percorso posizione attuale"`,
 ### `ls" : "mostra tutto quello che è contenuto all'interno della cartella in cui ci troviamo"`,
@@ -36,5 +36,6 @@ In the project directory, you can run:
 
 Contributions, issues, and feature requests are welcome!
 
-My Discord: @dekuzx 966760899593502721
+My Discord: @dekuzx 966760899593502721 !
+
 Give a ⭐️ if you like this project!
